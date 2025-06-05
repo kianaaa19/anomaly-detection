@@ -1,0 +1,5 @@
+notebooks/IEEE_CIS/data_cleaned.csv
+notebooks/NSL_KDD/processed_temp.csv
+notebooks/NSL_KDD/Test.csv
+notebooks/NSL_KDD/Train.csv
+notebooks/IEEE_CIS/data/*
